@@ -1,9 +1,20 @@
 # Amazon Clone
 
+A responsive Amazon homepage clone built using HTML5 and CSS3.
+
 ## Project Preview
 
-![Amazon Clone](Screenshot%202026-06-11%20233421.png)
+![Amazon Clone Screenshot](images/amazon-homepage.png)
 
-## Description
+## Features
+- Responsive navigation bar
+- Hero section
+- Product cards layout
+- Footer section
 
-A responsive Amazon homepage clone developed using HTML5 and CSS3.
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Tejaswari Ravulu
